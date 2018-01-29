@@ -6,3 +6,6 @@ Upd. 22/01/2018:
 	
 Upd. 25/01/2018:
 	- Pattern "Observer" added as weather station app.
+
+Upd. 29/01/2018:
+	- Pattern "Decorator" added as coffee shop app.
