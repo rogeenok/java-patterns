@@ -9,3 +9,6 @@ Upd. 25/01/2018:
 
 Upd. 29/01/2018:
 	- Pattern "Decorator" added as coffee shop app.
+	
+Upd. 02/02/2018:
+	- Idiom "Simple Factory" added as pizza store.
