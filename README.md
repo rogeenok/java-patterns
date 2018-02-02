@@ -12,3 +12,6 @@ Upd. 29/01/2018:
 	
 Upd. 02/02/2018:
 	- Idiom "Simple Factory" added as pizza store.
+	
+Upd. 02/02/2018:
+	- Pattern "Factory Method" added as styled pizza store.
