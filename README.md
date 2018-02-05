@@ -15,3 +15,6 @@ Upd. 02/02/2018:
 	
 Upd. 02/02/2018:
 	- Pattern "Factory Method" added as styled pizza store.
+	
+Upd. 06/02/2018:
+	- Patter "Abstract Factory" added as pizza store with ingredient factories.
