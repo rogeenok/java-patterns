@@ -17,4 +17,7 @@ Upd. 02/02/2018:
 	- Pattern "Factory Method" added as styled pizza store.
 	
 Upd. 06/02/2018:
-	- Patter "Abstract Factory" added as pizza store with ingredient factories.
+	- Pattern "Abstract Factory" added as pizza store with ingredient factories.
+	
+Upd. 10/02/2018:
+	- Pattern "Singleton" added as several implementations and chocolate boiler.
